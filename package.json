@@ -1,5 +1,5 @@
 {
-  "name": "cowsay",
+  "name": "@mediocre/cowsay",
   "version": "1.1.6",
   "description": "cowsay is a configurable talking cow",
   "keywords": [
@@ -35,7 +35,7 @@
     "test": "node test.js"
   },
   "dependencies": {
-    "get-stdin": "^4.0.1",
+    "get-stdin": "^5.0.1",
     "optimist": "~0.6.1"
   },
   "devDependencies": {
